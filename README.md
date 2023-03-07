@@ -47,7 +47,7 @@ The page that will open is for generating CSV file and the output.csv will be sa
 ### To upload the CSV file data on the database go to this localhost link below:
 
 ```
-http://localhost/test2/upload/
+http://localhost/test2/upload.php/
 
 ```
 
