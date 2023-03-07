@@ -1,5 +1,5 @@
 # devprox
-
+<b> Download ZIP file and extract it and put the files in directory C:\xampp\htdocs\ if on windows and your using xampp or wamp</b>
 ## test 1
 
 <li>The form is custom from codepen which they use html5, and css3. </li>
